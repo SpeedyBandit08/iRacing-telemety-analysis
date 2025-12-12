@@ -1,3 +1,8 @@
+"""
+Richard Murray
+COMSC 230 Final Project
+"""
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt 
@@ -535,3 +540,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

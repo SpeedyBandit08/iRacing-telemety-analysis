@@ -1,0 +1,10 @@
+If you want to run the files the directories need to be updated
+The order the files were created and run goes as follows:
+1: Create_Subset.py 
+2: CSV_Cleaning.py 
+3: Tire_Wear.py 
+4: Lap_Count_Clean.py 
+5: Lap_Times.py 
+6: Create_Targets.py
+7: Combine_Data.py
+8: iracing_setup_wear_analysis.py
